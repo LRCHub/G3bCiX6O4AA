@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "すろぉもぉしょん",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2026-02-28T08:09:52.858821Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "すろぉもぉしょん",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/01_すろぉもぉしょん_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "すろぉもぉしょん",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/02_すろぉもぉしょん_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "すろぉもぉしょん",
+      "artist": "ピノキオピー feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/03_すろぉもぉしょん_ピノキオピー_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "すろぉもぉしょん",
+      "artist": "PinocchioP feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/04_すろぉもぉしょん_PinocchioP_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "すろぉもぉしょん (feat. Hatsune Miku)",
+      "artist": "PinocchioP",
+      "has_synced": false,
+      "path": "select/05_すろぉもぉしょん_(feat._Hatsune_Miku)_PinocchioP.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "すろぉもぉしょん - SLoWMoTIoN",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/06_すろぉもぉしょん_-_SLoWMoTIoN_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "すろぉもぉしょん",
+      "artist": "ピノキオP",
+      "has_synced": true,
+      "path": "select/07_すろぉもぉしょん_ピノキオP.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "すろぉもぉしょん",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/08_すろぉもぉしょん_Various.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "すろぉもぉしょん",
+      "artist": "松下",
+      "has_synced": false,
+      "path": "select/09_すろぉもぉしょん_松下.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "すろぉもぉしょん",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_すろぉもぉしょん_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "すろぉもぉしょん",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_02_すろぉもぉしょん_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "すろぉもぉしょん",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_03_すろぉもぉしょん_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "すろぉもぉしょん",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_04_すろぉもぉしょん_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "すろぉもぉしょん",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_05_すろぉもぉしょん_初音ミク.txt"
+    }
+  ]
+}
